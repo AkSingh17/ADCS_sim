@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "python.analysis.extraPaths": [
+        "./py-igrf/release"
+    ]
+}
